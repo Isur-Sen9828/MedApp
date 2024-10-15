@@ -21,8 +21,8 @@ function Header() {
     },
   ]
   return (
-    <div>
-      <div className='flex items-center gap-10'>
+    <div className='flex justify-between gap-10 items-center shadow-sm'>
+      <div className='flex items-center '>
         <Image src='/logo.svg' alt='logo' width={50} height={0}/>
 
         <ul className='md:flex gap-8 hidden'>
