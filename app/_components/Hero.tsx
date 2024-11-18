@@ -15,7 +15,7 @@ function Hero() {
       </div>
 
       <div className="lg:py-24">
-        <h2 className="text-3xl font-bold sm:text-4xl">Find and book <span className='text-primary'>Appoinment</span> with our finest <span className='text-primary'>Doctors</span></h2>
+        <h2 className="text-3xl font-bold sm:text-4xl">Find & book <span className='text-primary'>Appoinment</span> with our finest <span className='text-primary'>Doctors</span></h2>
 
         <p className="mt-4 text-gray-600">
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut qui hic atque tenetur quis
